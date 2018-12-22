@@ -1,4 +1,4 @@
-# MIPS-Assembler
+# MIPS Assembler
 ## Overview
 This is a minimal MIPS assembler written in Java that converts MIPS assembly code
 into machine code following these three steps:
